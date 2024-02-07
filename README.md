@@ -1,5 +1,7 @@
 ## Monero Webminer
 
+cloned from [monero-webminer](https://github.com/NajmAjmal/monero-webminer.git)
+
 Html & Js code that allows Mining of XMR (Monero) on browsers
 
 
